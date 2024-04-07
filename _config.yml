@@ -16,10 +16,10 @@
 
 #theme: jekyll-theme-so-simple
 
-#remote_theme: mmistakes/so-simple-themes
+remote_theme:  mmistakes/so-simple-themes
 
 
-skin: "/assets/css/skins/default.css"
+skin:  "/assets/css/skins/default.css"
 locale: en-US
 title: "My Awesome Site"
 description: "It really is the best."
