@@ -1,5 +1,5 @@
 ---
-title: Category Archive
+title: Etiketler
 layout: tags
 permalink: /tags/
 show_excerpts: true

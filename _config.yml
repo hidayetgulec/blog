@@ -1,7 +1,7 @@
 
 remote_theme: mmistakes/so-simple-theme
 
-locale: en-US
+locale: tr-TR
 title: "Blog|HG|"
 description: "Hukuk|Yazılım|Felsefe|Tarih|Politika|Teknoloji"
 baseurl: "/blog"

@@ -1,5 +1,5 @@
 ---
-title: Post Archive
+title: Yazılar
 layout: posts
 permalink: /posts/
 show_excerpts: true

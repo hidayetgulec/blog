@@ -189,5 +189,6 @@ tr: &DEFAULT_TR
   back_to_top: "Başa Dön"
   search_placeholder_text: "Arama teriminizi girin..."
   powered_by: "Powered by"
+  April: "Nisan"
 tr-TR:
   <<: *DEFAULT_TR

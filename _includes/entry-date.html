@@ -1,6 +1,17 @@
-{%- unless page.layout == 'collection' -%}
+<!-- {%- unless page.layout == 'collection' -%}
   <time class="entry-date dt-published" datetime="{{ entry.date | date_to_xmlschema }}">
     {%- assign date_format = site.date_format | default: "%B %-d, %Y" -%}
+    {{ entry.date | date: date_format }}
+  </time>
+{%- endunless -%} -->
+
+<!--Entry Türkçeleştirme-->
+
+{%- unless page.layout == 'collection' -%}
+  <time class="entry-date dt-published" datetime="{{ entry.date | date_to_xmlschema }}">
+    {%- assign months = "Ocak,Şubat,Mart,Nisan,Mayıs,Haziran,Temmuz,Ağustos,Eylül,Ekim,Kasım,Aralık" | split: "," %}
+    {%- assign month = entry.date | date: "%-m" | minus: 1 %}
+    {%- assign date_format = "%-d " | append: months[month] | append: ", %Y" -%}
     {{ entry.date | date: date_format }}
   </time>
 {%- endunless -%}
