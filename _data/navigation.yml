@@ -1,16 +1,16 @@
 # Sample site navigation bar links
 
-- title: Home
+- title: Anasayfa
   url: /
-- title: Posts
+- title: Yazılar
   url: /posts/
-- title: Categories
-  url: /categories/
-- title: Tags
-  url: /tags/
+- title: Kategoriler
+  url: /kategoriler/
+- title: Etiketler
+  url: /etiketler/
 # - title: Recipes
 #   url: /recipes/
-- title: Search
-  url: /search/
+- title: Arama
+  url: /arama/
 # - title: External Page
 #   url: https://the-page.com/you-want-to-link-to.html
