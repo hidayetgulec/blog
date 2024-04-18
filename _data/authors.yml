@@ -3,14 +3,10 @@
 
 Hidayet Güleç:
   name: Hidayet Güleç
-  picture: /images/
+  picture: /images/hidayetgulec.png
   twitter: "@"
   links:
     - title: Twitter
       url: https://twitter.com/billyrick
       icon: fab fa-twitter-square
 
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
-  picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
