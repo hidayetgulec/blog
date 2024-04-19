@@ -19,12 +19,12 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
-google_analytics: "UA-2011187-2"
+google_analytics: "G-P5Y5W8C185"
 disqus:
   shortname: "hidayetgulec"
 twitter:
   username: "hidoyet"
-google_site_verification: "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y"
+google_site_verification: "A4SDYoxTOxXgt0TP8Oq4ZYdtW4FSQERogKKgFk8u6Xk"
 
 # Liquid
 liquid:
@@ -94,8 +94,8 @@ defaults:
 # Site Author
 author:
   name: Hidayet Güleç
-  picture: /images/michael-rose-photo.jpg
-  email:
+  picture: /images/hidayetgulec.jpeg
+  email: av.hidayetgulec@gmail.com
   twitter: hidoyet
   links:
     - title: Twitter
