@@ -31,7 +31,7 @@ liquid:
   error_mode: strict
 
 # Build settings
-permalink: /:categories/:title/
+permalink: /:kategoriler/:baslik/
 markdown: kramdown
 feed:
   path: atom.xml
@@ -44,8 +44,8 @@ paginate_path: /page:num/
 search_full_content: true
 
 # Taxonomy pages
-category_archive_path: "/categories/#"
-tag_archive_path: "/tags/#"
+category_archive_path: "/kategoriler/#"
+tag_archive_path: "/etiketler/#"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
