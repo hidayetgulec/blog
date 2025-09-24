@@ -1,7 +1,8 @@
 ---
 title: Etiketler
 layout: tags
-permalink: /etiketler/
+permalink: /tags/
 show_excerpts: true
 entries_layout: list
+
 ---
