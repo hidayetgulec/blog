@@ -1,7 +1,8 @@
 ---
 title: Kategoriler
 layout: categories
-permalink: /kategoriler/
+permalink: /categories/
 show_excerpts: true
 entries_layout: list
+
 ---
