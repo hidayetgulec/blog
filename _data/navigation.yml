@@ -5,9 +5,9 @@
 - title: Yazılar
   url: /posts/
 - title: Kategoriler
-  url: /kategoriler/
+  url: /categories/
 - title: Etiketler
-  url: /etiketler/
+  url: /tags/
 # - title: Recipes
 #   url: /recipes/
 - title: Arama
